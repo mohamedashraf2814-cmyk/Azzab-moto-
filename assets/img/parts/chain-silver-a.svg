@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800"><defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#EEF1F5"/></linearGradient>
+  <radialGradient id="glow" cx="0.5" cy="0.45" r="0.55"><stop offset="0" stop-color="#FF8200" stop-opacity="0.13"/><stop offset="1" stop-color="#FF8200" stop-opacity="0"/></radialGradient>
+  <radialGradient id="shadow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#17191D" stop-opacity="0.28"/><stop offset="1" stop-color="#17191D" stop-opacity="0"/></radialGradient>
+  <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FAFBFC"/><stop offset="0.35" stop-color="#C3CAD3"/><stop offset="0.55" stop-color="#EEF1F4"/><stop offset="1" stop-color="#858E9A"/></linearGradient>
+  <linearGradient id="metalV" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8A939F"/><stop offset="0.3" stop-color="#F3F5F8"/><stop offset="0.6" stop-color="#BAC2CC"/><stop offset="1" stop-color="#7A838F"/></linearGradient>
+  <linearGradient id="dark" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4A505A"/><stop offset="1" stop-color="#121418"/></linearGradient>
+  <linearGradient id="darkV" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#16181C"/><stop offset="0.35" stop-color="#4C525C"/><stop offset="1" stop-color="#111316"/></linearGradient>
+  <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFB25C"/><stop offset="0.5" stop-color="#FF8200"/><stop offset="1" stop-color="#D96800"/></linearGradient>
+  <linearGradient id="tint" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F4F6F9"/><stop offset="0.5" stop-color="#BCC4CE"/><stop offset="1" stop-color="#7D8693"/></linearGradient>
+  <linearGradient id="tintV" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7D8693"/><stop offset="0.35" stop-color="#F4F6F9"/><stop offset="1" stop-color="#7D8693"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.95"/><stop offset="0.5" stop-color="#DDE6EF" stop-opacity="0.85"/><stop offset="1" stop-color="#9FB1C4" stop-opacity="0.9"/></linearGradient>
+  <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF6B5E"/><stop offset="1" stop-color="#B3170E"/></linearGradient>
+  <linearGradient id="rubber" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3A3E45"/><stop offset="1" stop-color="#0E1013"/></linearGradient>
+</defs>
+  <rect width="800" height="800" fill="url(#bg)"/>
+  <circle cx="400" cy="380" r="360" fill="url(#glow)"/>
+  <ellipse cx="400" cy="700" rx="270" ry="34" fill="url(#shadow)"/>
+  <g><path d="M150 400 L150 400 L167.2 418.1 L184.5 435.8 L201.7 452.7 L219 468.4 L236.2 482.5 L253.4 494.7 L270.7 504.8 L287.9 512.4 L305.2 517.5 L322.4 519.8 L339.7 519.4 L356.9 516.3 L374.1 510.5 L391.4 502.1 L408.6 491.5 L425.9 478.7 L443.1 464.1 L460.3 448 L477.6 430.8 L494.8 413 L512.1 394.8 L529.3 376.7 L546.6 359.2 L563.8 342.6 L581 327.4 L598.3 313.8 L615.5 302.2 L632.8 292.8 L650 285.9" stroke="#3B4048" stroke-width="20" fill="none"/><g transform="translate(150 400) rotate(45.9)">
+        <rect x="-26" y="-26" width="52" height="52" rx="24" fill="url(#tint)" stroke="#5E6672" stroke-width="3"/>
+        <circle cx="-12" cy="0" r="8" fill="#5E6672"/><circle cx="12" cy="0" r="8" fill="#5E6672"/></g><g transform="translate(191.7 443) rotate(41.8)">
+        <rect x="-26" y="-26" width="52" height="52" rx="24" fill="url(#metal)" stroke="#5E6672" stroke-width="3"/>
+        <circle cx="-12" cy="0" r="8" fill="#5E6672"/><circle cx="12" cy="0" r="8" fill="#5E6672"/></g><g transform="translate(233.3 480.3) rotate(32.6)">
+        <rect x="-26" y="-26" width="52" height="52" rx="24" fill="url(#tint)" stroke="#5E6672" stroke-width="3"/>
+        <circle cx="-12" cy="0" r="8" fill="#5E6672"/><circle cx="12" cy="0" r="8" fill="#5E6672"/></g><g transform="translate(275 506.9) rotate(16.6)">
+        <rect x="-26" y="-26" width="52" height="52" rx="24" fill="url(#metal)" stroke="#5E6672" stroke-width="3"/>
+        <circle cx="-12" cy="0" r="8" fill="#5E6672"/><circle cx="12" cy="0" r="8" fill="#5E6672"/></g><g transform="translate(316.7 519.3) rotate(-4.7)">
+        <rect x="-26" y="-26" width="52" height="52" rx="24" fill="url(#tint)" stroke="#5E6672" stroke-width="3"/>
+        <circle cx="-12" cy="0" r="8" fill="#5E6672"/><circle cx="12" cy="0" r="8" fill="#5E6672"/></g><g transform="translate(358.3 515.9) rotate(-24.3)">
+        <rect x="-26" y="-26" width="52" height="52" rx="24" fill="url(#metal)" stroke="#5E6672" stroke-width="3"/>
+        <circle cx="-12" cy="0" r="8" fill="#5E6672"/><circle cx="12" cy="0" r="8" fill="#5E6672"/></g><g transform="translate(400 497.1) rotate(-37.3)">
+        <rect x="-26" y="-26" width="52" height="52" rx="24" fill="url(#tint)" stroke="#5E6672" stroke-width="3"/>
+        <circle cx="-12" cy="0" r="8" fill="#5E6672"/><circle cx="12" cy="0" r="8" fill="#5E6672"/></g><g transform="translate(441.7 465.4) rotate(-44.1)">
+        <rect x="-26" y="-26" width="52" height="52" rx="24" fill="url(#metal)" stroke="#5E6672" stroke-width="3"/>
+        <circle cx="-12" cy="0" r="8" fill="#5E6672"/><circle cx="12" cy="0" r="8" fill="#5E6672"/></g><g transform="translate(483.3 424.9) rotate(-46.4)">
+        <rect x="-26" y="-26" width="52" height="52" rx="24" fill="url(#tint)" stroke="#5E6672" stroke-width="3"/>
+        <circle cx="-12" cy="0" r="8" fill="#5E6672"/><circle cx="12" cy="0" r="8" fill="#5E6672"/></g><g transform="translate(525 381.2) rotate(-44.7)">
+        <rect x="-26" y="-26" width="52" height="52" rx="24" fill="url(#metal)" stroke="#5E6672" stroke-width="3"/>
+        <circle cx="-12" cy="0" r="8" fill="#5E6672"/><circle cx="12" cy="0" r="8" fill="#5E6672"/></g><g transform="translate(566.7 340) rotate(-38.6)">
+        <rect x="-26" y="-26" width="52" height="52" rx="24" fill="url(#tint)" stroke="#5E6672" stroke-width="3"/>
+        <circle cx="-12" cy="0" r="8" fill="#5E6672"/><circle cx="12" cy="0" r="8" fill="#5E6672"/></g><g transform="translate(608.3 306.7) rotate(-26.6)">
+        <rect x="-26" y="-26" width="52" height="52" rx="24" fill="url(#metal)" stroke="#5E6672" stroke-width="3"/>
+        <circle cx="-12" cy="0" r="8" fill="#5E6672"/><circle cx="12" cy="0" r="8" fill="#5E6672"/></g><g transform="translate(650 285.9) rotate(-7.8)">
+        <rect x="-26" y="-26" width="52" height="52" rx="24" fill="url(#tint)" stroke="#5E6672" stroke-width="3"/>
+        <circle cx="-12" cy="0" r="8" fill="#5E6672"/><circle cx="12" cy="0" r="8" fill="#5E6672"/></g></g>
+</svg>

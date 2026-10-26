@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" width="1200" height="760">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#E4E9EF"/></linearGradient>
+  <linearGradient id="o" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFB25C"/><stop offset="1" stop-color="#FF8200"/></linearGradient></defs>
+  <rect width="1200" height="760" fill="url(#g)"/>
+  <text x="600" y="560" text-anchor="middle" font-family="Arial Black, Arial, Helvetica, sans-serif" font-weight="900" font-size="420" fill="none" stroke="#17191D" stroke-opacity="0.05" stroke-width="3">TVS</text>
+  <path d="M0 760 L0 610 L380 760 Z" fill="url(#o)"/><path d="M0 590 L0 560 L500 760 L425 760 Z" fill="#FF8200" opacity="0.35"/>
+  <rect x="90" y="150" width="120" height="44" rx="10" fill="#17191D"/><text x="150" y="181" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="24" fill="#FF8200" letter-spacing="4">TVS</text>
+  <text x="90" y="315" font-family="Arial Black, Arial, Helvetica, sans-serif" font-weight="900" font-size="150" fill="#17191D" letter-spacing="2">APACHE</text>
+  <text x="94" y="442.5" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="84" fill="#FF8200" letter-spacing="3">RR 310</text>
+  <text x="1110" y="690" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="34" fill="#68707C" letter-spacing="2">312 cc</text>
+</svg>
